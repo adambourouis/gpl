@@ -1,0 +1,2 @@
+# gpl
+short cmo test
